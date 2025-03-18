@@ -1,4 +1,4 @@
-package lesson_33.lists;
+package utils.lists;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;

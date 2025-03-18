@@ -1,4 +1,4 @@
-package lesson_33.lists;
+package utils.lists;
 
 public interface MyList<T> extends Iterable<T>{
 
