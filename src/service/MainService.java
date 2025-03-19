@@ -12,11 +12,6 @@ import java.net.CacheRequest;
 
 public interface MainService {
 
-
-
-
-
-
     User registerUser(String email, String password);
 
     boolean loginUser(String email, String password);
@@ -38,8 +33,5 @@ public interface MainService {
     public void logoutUser();
 
     User getActiveUser();
-
-
-
 
 }
